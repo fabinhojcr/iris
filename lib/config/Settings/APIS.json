@@ -29,7 +29,7 @@
 	"CommentEight": "https://rawg.io/@ll0/apikey",
 	"API_Rawg": "INSIRA A API_KEY RAWG",
 	"JumpLineEight": "----------------------------------------",
-	"CommentNine": "1 = HOANGGIAP (SIMSIMI) [SEM KEY] | 2 = LOCAL [SEM KEY] | 3 = BRAINSHOP [English/Chinese Only - https://brainshop.ai ] | 4 = SIMSIMI [ http://developer.simsimi.com/api ]",
+	"CommentNine": "1 = HOANGGIAP (SIMSIMI) [SEM KEY] | 2 = LOCAL [SEM KEY] | 3 = BRAINSHOP [English/Chinese Only - https://brainshop.ai ] | 4 = CLEVERBOT [SEM KEY] | 5 = SIMSIMI [ http://developer.simsimi.com/api ]",
 	"Chat_Bot_Type": 1,
 	"API_Brainshop": "INSIRA A SUA API-KEY BRAINSHOP",
 	"BID_Brainshop": "INSIRA A SUA BID BRAINSHOP",
@@ -47,10 +47,6 @@
 	"JumpLineEleven": "----------------------------------------",
 	"CommentTwelve": "https://wallhaven.cc/settings/account",
 	"API_WallHaven": "INSIRA A API_KEY WALLHAVEN",
-	"JumpLineTwelve": "----------------------------------------",
-	"CommentThirteen": "https://developer.here.com/projects",
-	"Here_APP_Code": "INSIRA A APP_CODE HERE",
-	"Here_APP_ID": "INSIRA A APP_ID HERE",
 	"JumpLineThirteen": "----------------------------------------",
 	"FinalComment": "Se a página após criar a conta não estiver com uma API-KEY 'a vista', acesse o link novamente, mas, tenha certeza de estar logado na sua conta antes."
 }

@@ -60,8 +60,8 @@ copenhagem
 dacca
 dakar
 damasco
-dar es salaam 
-dodoma 
+dar es salaam
+dodoma
 dili
 djibouti
 doha
@@ -70,7 +70,7 @@ erevan
 estocolmo
 freetown
 funafuti
-gaborone 
+gaborone
 georgetown
 hanoi
 harare
@@ -95,8 +95,8 @@ lilongwe
 lima
 lisboa
 liubliana
-lobamba 
-mbabane 
+lobamba
+mbabane
 lome
 londres
 luanda
@@ -145,13 +145,13 @@ porto moresby
 porto principe
 porto vila
 porto de espanha
-porto-novo 
-cotonu 
+porto-novo
+cotonu
 praga
 praia
-pretoria 
-bloemfontein 
-cidade do cabo  
+pretoria
+bloemfontein
+cidade do cabo
 pyongyang
 quito
 rabat
@@ -194,7 +194,7 @@ vaticano
 victoria
 viena
 vietiane
-vilnius 
+vilnius
 washington
 wellington
 windhoek

@@ -69,7 +69,16 @@ case "$1" in
 
 # Adquire os comandos criados
 	"cmds")
-		grep "case '" config.js | sed "s/.*case '//g" | sed "s/'://g" | grep -v " " > ../config/Utilidades/Comandos_Automate.txt
+		grep "case '" lib/functions/config.js | sed "s/.*case '//g" | sed "s/'://g" | grep -v " " > lib/config/Utilidades/Comandos_Automate.txt
+	;;
+
+# Checa por palavras exatas em um arquivo | Bad Words | Achei mais simples e rápido de fazer em SH do que em JS
+	"badwords")
+		if grep -qx "$2" "$3";then
+			echo "1"
+		else
+			echo "0"
+		fi
 	;;
 
 # Aqui é onde se fecha o script, pode ser fechado usando a palavra ao contrario, "case -> esac", "if" -> "fi".

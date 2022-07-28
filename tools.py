@@ -47,7 +47,10 @@ def apis():
             if "Comment" not in item and "JumpLine" not in item and "HelpLine" not in item:
                 print("\nValor padrão:", data[item])
                 newValue = input("\nInsira o valor para a configuração de "+item+": ")
-                data[item] = newValue # Muda para o valor digitado
+                if newValue == "":
+                    data[item] = data[item]
+                else:
+                    data[item] = newValue # Muda para o valor digitado
             elif "Comment" in item and "JumpLine" not in item and "HelpLine" not in item:
                 print("\nAdquira uma API aqui ->", data[item])
             else:
@@ -63,7 +66,10 @@ def config():
         for item in data:
             print("\nValor padrão:", data[item],"\nPara inserir múltiplos valores, use '|' para separar eles, mas, não insira espaços ao separar.")
             newValue = input("\nInsira o valor para a configuração de "+item+": ").split('|')
-            data[item] = newValue # Muda para o valor digitado
+            if newValue == "":
+                data[item] = data[item]
+            else:
+                data[item] = newValue # Muda para o valor digitado
         print("A configuração foi concluída, estou salvando os arquivos...")
         newJson = open('./lib/config/Settings/config.json', "w") # Salva o JSON
         json.dump(data, newJson, indent=4)
@@ -76,7 +82,10 @@ def outros(file):
             for item in data:
                 print("\nPara inserir múltiplos valores, use '|' para separar eles, mas, não insira espaços ao separar.\n\nValor padrão:", data[item])
                 newValue = input("\nInsira o valor para a configuração de "+item+": ").split('|')
-                data[item] = newValue # Muda para o valor digitado
+                if newValue == "":
+                    data[item] = data[item]
+                else:
+                    data[item] = newValue # Muda para o valor digitado
             print("A configuração foi concluída, estou salvando os arquivos...")
             newJson = open(file, "w") # Salva o JSON
             json.dump(data, newJson, indent=4)

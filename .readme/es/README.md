@@ -5,6 +5,7 @@ Tiene una gran cantidad de comandos diferentes y recibe actualizaciones 'frecuen
 ### Otro idioma  
 If you want a tutorial in English [Click Here](https://github.com/KillovSky/iris/blob/main/.readme/en/README.md).  
 Para um tutorial em Português [Clique Aqui](https://github.com/KillovSky/iris/blob/main/README.md).  
+Tenga en cuenta que solo el portugués es estable y completo, otros idiomas presentarán errores graves por no estar finalizados, espera una versión estable o usar en portugués.  
   
 ### 'Página' de Íris  
 Creé una página 'diferente' para alojar información de Iris, puedes acceder a la versión de Github [Desde Aquí](http://htmlpreview.github.io/?https://github.com/KillovSky/iris/blob/main/.readme/donates/page.html), solo se actualizará cuando publique una nueva actualización de Íris.  

@@ -638,7 +638,7 @@
 				"loja"
 			],
 			"pousada":{
-				"imagem":"https://static.wikia.nocookie.net/elderscrolls/images/d/d1/Sleeping_Giant_Inn.png",
+				"image":"https://static.wikia.nocookie.net/elderscrolls/images/d/d1/Sleeping_Giant_Inn.png",
 				"from":"Sleeping Giant Inn - The Elder Scrolls: Skyrim",
 				"bosses":[
 					"loli",
@@ -682,7 +682,7 @@
 				}
 			},
 			"beco":{
-				"imagem":"https://static.wikia.nocookie.net/residentevil/images/4/45/Resident_Evil_3_background_-_Uptown_-_warehouse_back_alley_c1_-_R10202.jpg",
+				"image":"https://static.wikia.nocookie.net/residentevil/images/4/45/Resident_Evil_3_background_-_Uptown_-_warehouse_back_alley_c1_-_R10202.jpg",
 				"from":"Resident Evil 3 - Atalho do estacionamento",
 				"bosses":[
 					"cat",
@@ -726,7 +726,7 @@
 				}
 			},
 			"taberna":{
-				"imagem":"https://static.wikia.nocookie.net/witcher/images/7/76/Tavern-at-harviken.jpg",
+				"image":"https://static.wikia.nocookie.net/witcher/images/7/76/Tavern-at-harviken.jpg",
 				"from":"The Witcher 3 - Harviken",
 				"bosses":[
 					"slime",
@@ -770,7 +770,7 @@
 				}
 			},
 			"armeiro":{
-				"imagem":"https://static.wikia.nocookie.net/elderscrolls/images/d/dd/Sky_Forge.png",
+				"image":"https://static.wikia.nocookie.net/elderscrolls/images/d/dd/Sky_Forge.png",
 				"from":"The Elder Scrolls: Skyrim - The Sky Forge (Companions Guild)",
 				"bosses":[
 					"golem",
@@ -805,8 +805,8 @@
 				}
 			},
 			"loja":{
-				"imagem":"https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_700/MTc0Mjc0MjU0MzQ5NTQzMjky/the-general-store-in-buried-call-of-duty-black-ops-2-zombies.webp",
-				"from":"General Store - Call of Duty Black Ops 2",
+				"image":"https://i.imgur.com/9zW0qAd.jpg",
+				"from":"Candyshop by Nikolai Lockertsen",
 				"bosses":[
 					"bruxo",
 					"pillager",

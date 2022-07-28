@@ -173,20 +173,6 @@
 				"pt": "Resete o link do bar."
 			}
 		},
-		"bomb": {
-			"emoji": "💣",
-			"media": [
-				"-help"
-			],
-			"menus": [
-				"admins"
-			],
-			"description": {
-				"en": "Attack the jokers.",
-				"es": "Envie para los que hacen mierda.",
-				"pt": "Ataque engraçadinhos."
-			}
-		},
 		"blacklist": {
 			"emoji": "⌛",
 			"media": [
