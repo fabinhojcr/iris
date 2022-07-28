@@ -65,6 +65,7 @@ block
 give
 botnome
 recado
+desc
 botfoto
 exec
 resetall
@@ -134,10 +135,7 @@ life
 fox
 wiki
 nasa
-stalkig
 fatos
-sporn
-xvideos
 downvideo
 play
 video
@@ -193,7 +191,6 @@ groupinfo
 info
 chefe
 wame
-maps
 sip
 scep
 random
@@ -276,6 +273,7 @@ date
 data
 menu
 menut
+addcmd
 stickers
 otaku
 games
@@ -494,3 +492,4 @@ exist
 exists
 register
 bank
+path

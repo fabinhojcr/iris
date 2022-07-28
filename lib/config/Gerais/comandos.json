@@ -1,29 +1,4 @@
 {
-	"allMenus": [
-		"games",
-		"admins",
-		"configs",
-		"otaku",
-		"dados",
-		"music",
-		"twitter",
-		"genshin",
-		"down",
-		"rpg",
-		"guild",
-		"maker",
-		"image",
-		"memes",
-		"video",
-		"outros",
-		"suporte",
-		"menu",
-		"midia",
-		"dono",
-		"stickers",
-		"police",
-		"adult"
-	],
 	"commands": {
 		"kick": {
 			"alias": [
