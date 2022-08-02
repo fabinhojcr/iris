@@ -1,26 +1,37 @@
   
 <p align="center">  
-<img src="https://user-images.githubusercontent.com/55511420/181583802-c4b698e5-1017-4323-81fd-4e7f2f43620b.jpg" width="256" height="256"/>  
-</p>  
+	<img src="https://user-images.githubusercontent.com/55511420/181583802-c4b698e5-1017-4323-81fd-4e7f2f43620b.jpg" width="256" height="256">  
+	<h5 align="center"><a href="https://bit.ly/BOT-IRIS">[Source: Comunidade da Íris]</a></h5>  
+	<h1 align="center">Projeto Íris</h1>  
 </p>  
 <p align="center">  
-<a><img title="Size" src="https://img.shields.io/github/repo-size/KillovSky/iris"></a>  
-<a href="https://github.com/KillovSky/iris/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/KillovSky/iris?color=red&style=flat-square"></a>  
-<a href="https://github.com/KillovSky/iris/network/members"><img title="Forks" src="https://img.shields.io/github/forks/KillovSky/iris?color=red&style=flat-square"></a>  
-<a href="https://github.com/KillovSky/iris/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/KillovSky/iris?label=Watchers&color=blue&style=flat-square"></a>  
-<a href="https://www.codefactor.io/repository/github/killovsky/iris"><img src="https://www.codefactor.io/repository/github/killovsky/iris/badge" alt="CodeFactor" /></a>  
+	<a href="https://discord.gg/ZtN9UH7XZu"><img alt="Discord" src="https://img.shields.io/discord/1000544206596608001?color=blue&label=Discord&style=flat-square"></a>  
+	<a href="https://t.me/PROJETOIRIS"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-Online-blue?style=flat-square"></a>  
+	<a href="https://bit.ly/BOT-IRIS"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Online-blue?style=flat-square"></a>  
+	<a href="https://github.com/KillovSky/iris/blob/main/LICENSE"><img alt="GitHub License" src="https://img.shields.io/github/license/KillovSky/Iris?color=blue&label=Licence&style=flat-square"></a>  
+	<a href="https://github.com/KillovSky/iris"><img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/KillovSky/Iris?label=Linhas&style=flat-square"></a>  
+	<a href="https://github.com/KillovSky/iris"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/KillovSky/iris?label=Tamanho&style=flat-square"></a>  
+	<a href="https://github.com/KillovSky/iris"><img alt="GitHub Languages" src="https://img.shields.io/github/languages/count/KillovSky/Iris?label=Linguagens&style=flat-square"></a>  
+	<a href="https://github.com/KillovSky/iris/blob/main/package.json"><img alt="GitHub Version" src="https://img.shields.io/github/package-json/v/KillovSky/Iris?label=Build&style=flat-square"></a>  
+	<a href="https://github.com/KillovSky/iris/commits/main"><img alt="GitHub Updates" src="https://img.shields.io/github/commit-activity/w/KillovSky/Iris?label=Updates&style=flat-square"></a>  
+	<a href="https://github.com/KillovSky/iris/stargazers/"><img title="GitHub Stars" src="https://img.shields.io/github/stars/KillovSky/iris?label=Stars&style=flat-square"></a>  
+	<a href="https://github.com/KillovSky/iris/network/members"><img title="GitHub Forks" src="https://img.shields.io/github/forks/KillovSky/iris?label=Forks&style=flat-square"></a>  
+	<a href="https://github.com/KillovSky/iris/watchers"><img title="GitHub Watch" src="https://img.shields.io/github/watchers/KillovSky/iris?label=Watchers&style=flat-square"></a>  
+	<a href="https://www.codefactor.io/repository/github/killovsky/iris"><img alt="Codefactor" src="https://www.codefactor.io/repository/github/killovsky/iris/badge"></a>  
+	<a href="http://isitmaintained.com/project/killovsky/iris"><img alt="Is maintained" src="http://isitmaintained.com/badge/resolution/killovsky/iris.svg"></a>  
+	<a href="http://isitmaintained.com/project/killovsky/iris"><img alt="Is maintained" src="http://isitmaintained.com/badge/open/killovsky/iris.svg"></a>  
 </p>  
   
-# Projeto Íris  
+## O que é a Íris?  
 Íris é uma robô em inglês, espanhol e português para WhatsApp com centenas de comandos diferentes e recebe atualizações com novos recursos, correções e melhorias sempre que possível.  
   
-## Procurando outro idioma?
+## Procurando outro idioma?  
 Tenha em mente que apenas o português é estável e completo, outros idiomas apresentarão bugs graves por não serem finalizados, aguarde uma versão estável ou use APENAS em português.  
   
  * [Español](https://github.com/KillovSky/iris/blob/main/.readme/es/README.md)  
  * [English](https://github.com/KillovSky/iris/blob/main/.readme/en/README.md)  
   
-## Aviso V3.3.0
+## Aviso >= V3.3.0  
 Esta versão é uma BETA aberta de teste não finalizada, então BUGS são esperados, ajude-nos a corrigir informando ou fazendo sua própria correção e enviando em um dos meios abaixo, quanto mais cedo e rápido informar, mais rápido poderemos ter uma versão estável.  
   
 ## Página da Íris  

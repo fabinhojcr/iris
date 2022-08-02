@@ -43,6 +43,10 @@ Para configurar estes parâmetros, ache a pasta da Íris que você baixou com o 
 > - Valores: true, false  
 > - Padrão: true  
 ------  
+> - [Mention_Admins](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/firewall.json) → Marca os administradores após um banimento por quebra de regra.  
+> - Valores: true, false  
+> - Padrão: true  
+------  
   
 </details>  
   
@@ -400,10 +404,6 @@ Para configurar estes parâmetros, ache a pasta da Íris que você baixou com o 
 > - [Fake_Sleep](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json) → Tempo em minutos que a Íris deve esperar antes de enviar outra mensagem de fake.  
 > - Valores: número  
 > - Padrão: 30  
-------  
-> - [Check_Connection](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json) → Tempo em minutos que a Íris deve verificar se está travada ou recarregando infinitamente.  
-> - Valores: número  
-> - Padrão: 10  
 ------  
 > - [Secure_Group](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json) → Grupo seguro para receber alertas de emergência ou mensagens similares.  
 > - Valores: "String@g.us"  

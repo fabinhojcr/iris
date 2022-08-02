@@ -99,7 +99,6 @@
 	"Goodbye_Sleep": 30,
 	"Blacklist_Sleep": 30,
 	"Fake_Sleep": 30,
-	"Check_Connection": 10,
 	"Secure_Group": "INSIRA A ID DE UM GRUPO SEGURO@g.us",
 	"Max_Lotery": 10000,
 	"Perfomance_Mode": true,
