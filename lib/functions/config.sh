@@ -74,7 +74,7 @@ case "$1" in
 
 # Checa por palavras exatas em um arquivo | Bad Words | Achei mais simples e rápido de fazer em SH do que em JS
 	"badwords")
-		if grep -qx "$2" "$3";then
+		if grep -qix "$2" "$3";then
 			echo "1"
 		else
 			echo "0"

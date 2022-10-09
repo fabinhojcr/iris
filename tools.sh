@@ -180,24 +180,9 @@ if [[ "$isCorrect" == *"start.js"* && "$isCorrect" == *"lib"* && "$isCorrect" ==
 					# Executa o método de execução feito por Gabriel Dias, a diferença é que não se usa PM2.
 					# Todos os créditos disso a ele -> https://github.com/gabrieldiaspereira | https://github.com/KillovSky/iris/pull/531
 					"7")
-						if ! [ -x "$(command -v pm2)" ]; then
-							select opt in "Instalar PM2" "Sair"; do
-								case $opt in
-									"Instalar PM2")
-										bash tools.sh 15
-										sleep 60
-										exit
-									;;
-									"Sair")
-										printf "[ÍRIS] → Foi um prazer, volte sempre!\n"
-										exit
-									;;
-								esac
-							done
-						fi
 						printf "\n[ÍRIS] → Função executada, output (se existir) -> "
 						while : ; do
-							printf "[ÍRIS] → $('\033[0;32m') Iniciando Íris, caso o processo sofra falhas, um reinicio automático será feito.\n"
+							printf "[ÍRIS] → Iniciando Íris, caso o processo sofra falhas, um reinicio automático será feito.\n"
 							npm start
 							sleep 1
 						done
@@ -296,7 +281,7 @@ if [[ "$isCorrect" == *"start.js"* && "$isCorrect" == *"lib"* && "$isCorrect" ==
 					"12")
 						if [[ -d "lib/session" ]]; then
 							rm -rf lib/session
-							echo "\n[DONE] - Sessão do WhatsApp Web desconectada!"
+							printf "\n[DONE] - Sessão do WhatsApp Web desconectada!"
 						else
 							printf "\n[ÍRIS | DONE] → Você ainda não possui uma sessão conectada."
 						fi

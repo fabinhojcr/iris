@@ -1,10 +1,11 @@
 ### O que a configuração faz? O que acontece se não a fizer?  
   
-A configuração é essencial, pois afeta comandos, se você não os configurar, você perderá acesso aos comandos que precisam de uma API-KEY, como `Anti-Porn`, `Reconhecimento de Música` `Nasa` e entre outros.  
+A configuração é essencial, pois afeta comandos, se você não os configurar, você perderá acesso aos comandos que precisam de uma API-KEY, como `Anti-Porn`, `Reconhecimento de Música` `NASA` e entre outros.  
   
 ### Como configurar?  
   
 Para configurar estes parâmetros, ache a pasta da Íris que você baixou com o `Git Clone` - **Não é online na Github!** - e vá para a pasta `Lib/Config/Settings`, abra o arquivo necessário com qualquer editor de texto - recomendo o uso de [NotePad++](https://notepad-plus-plus.org/downloads/) se estiver no Windows - e agora basta editar.  
+Se não souber configurar, você pode usar essa [ferramenta](https://leonardoconstantino.github.io/edite-config/) não oficial para construir o JSON de forma online.  
   
 <details>  
 	<summary><h3>CONFIGURAÇÕES DE FIREWALL - FIREWALL.JSON - [CLIQUE AQUI]</h3></summary>  
@@ -420,6 +421,50 @@ Para configurar estes parâmetros, ache a pasta da Íris que você baixou com o 
 > - [Day_Yield](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json) → Porcentagem de rendimentos do banco, ainda não é usado, reservado para o futuro.  
 > - Valores: true, false  
 > - Padrão: true  
+------  
+> - [Max_Playing](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json) → Quantidade máxima de jogos com ganhos no mix.  
+> - Valores: número  
+> - Padrão: 3  
+------  
+> - [Show_Error](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json) → Define se a Íris deve exibir os erros na tela ou WhatsApp.  
+> - Valores: true, false  
+> - Padrão: true  
+------  
+> - [Show_Commands](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json) → Define se a Íris deve exibir os comandos na tela.  
+> - Valores: true, false  
+> - Padrão: true  
+------  
+> - [Show_Messages](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json) → Define se a Íris deve exibir as mensagens na tela.  
+> - Valores: true, false  
+> - Padrão: true  
+------  
+> - [Show_Logs](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json) → Define se a Íris deve exibir os logs na tela.  
+> - Valores: true, false  
+> - Padrão: true  
+------  
+> - [Show_Others](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json) → Define se a Íris deve exibir outros tipos de mensagens.  
+> - Valores: true, false  
+> - Padrão: true  
+------  
+> - [Show_Hidden](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json) → Define se a Íris deve exibir erros de forma mais agressiva na tela.  
+> - Valores: true, false  
+> - Padrão: false  
+------  
+> - [Show_Functions](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json) → Define se a Íris deve exibir as funções na tela.  
+> - Valores: true, false  
+> - Padrão: true  
+------  
+> - [Show_States](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json) → Define se a Íris deve exibir o status de conexão na tela.  
+> - Valores: true, false  
+> - Padrão: true  
+------  
+> - [Min_Text_Size](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json) → Valor mínimo de caracteres para inserir um texto customizado de banimento.  
+> - Valores: número  
+> - Padrão: 10  
+------  
+> - [VIP_Links](https://github.com/KillovSky/iris/blob/main/lib/config/Settings/config.json) → Define se a Íris deve permitir os VIPs e MODs mandarem links, imagens ou outros.  
+> - Valores: true, false  
+> - Padrão: false  
 ------  
   
 </details>  

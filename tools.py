@@ -102,6 +102,6 @@ if len(sys.argv) > 1:
         if len(sys.argv) > 2:
             outros(sys.argv[2])
         else:
-            print("Você não passou um arquivo correto.")
+            print("Você não passou um arquivo correto ou existente.")
 else:
-    print("Você não passou nenhum arquivo para a edição.")
+    print("Você não passou nenhum arquivo para a edição ou iniciou incorretamente, volte ao menu com 'bash tools.sh' ou abra o arquivo compatível clicando nele.")

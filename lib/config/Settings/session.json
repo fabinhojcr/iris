@@ -1,5 +1,5 @@
 {
-	"Comment": "LEIA PARA CONFIGURAR CORRETAMENTE, MÁ CONFIGURAÇÃO POSSUI RISCOS! - Local das explicações de configuração -> https://docs.openwa.dev/interfaces/api_model_config.ConfigObject.html",
+	"Comment": "LEIA PARA CONFIGURAR CORRETAMENTE, MÁ CONFIGURAÇÃO POSSUI RISCOS! - Local das explicações de configuração -> https://openwa.dev/docs/api/interfaces/api_model_config.ConfigObject",
 	"Auth_Timeout": 0,
 	"Auto_Emoji": "Opcional",
 	"Block_Assets": "Opcional | True | False",
@@ -17,7 +17,7 @@
 	"Discord_ID": "Opcional",
 	"Ensure_Headful_Integrity": "Opcional | True | False",
 	"Event_Mode": "Opcional | True | False",
-	"Executable_Path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+	"Executable_Path": "INSIRA O LOCAL DO EXECUTAVEL DO CHROME",
 	"EZQR": true,
 	"GH_Patch": "Opcional | True | False",
 	"Headless": "Opcional | True | False",
@@ -70,7 +70,7 @@
 		"./lib/session/Iris_Login_QR",
 		"./lib/session/Second_Iris_QR"
 	],
-	"Use_Chrome": true,
+	"Use_Chrome": false,
 	"Use_Native_Proxy": "Opcional | True | False",
 	"View_Port_Height": 0,
 	"View_Port_Width": 0,

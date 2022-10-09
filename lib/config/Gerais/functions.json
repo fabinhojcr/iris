@@ -2,6 +2,7 @@
 	"antilinks": [],
 	"antinumbers": [],
 	"antiporn": [],
+	"autofoto": [],
 	"antitravas": [],
 	"autosticker": [],
 	"badwords": {},
@@ -14,6 +15,7 @@
 	"goodbye": [],
 	"guild": ["COMPANIONS","THIEVES"],
 	"levelup": [],
+	"mentions": [],
 	"mute": [],
 	"NoBG": {},
 	"nodelete": [],
@@ -22,5 +24,6 @@
 	"rank": [],
 	"safelinks": [],
 	"vips": {},
+	"whitelist": [],
 	"welcome": []
 }

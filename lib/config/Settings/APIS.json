@@ -30,7 +30,7 @@
 	"API_Rawg": "INSIRA A API_KEY RAWG",
 	"JumpLineEight": "----------------------------------------",
 	"CommentNine": "1 = HOANGGIAP (SIMSIMI) [SEM KEY] | 2 = LOCAL [SEM KEY] | 3 = BRAINSHOP [English/Chinese Only - https://brainshop.ai ] | 4 = CLEVERBOT [SEM KEY] | 5 = SIMSIMI [ http://developer.simsimi.com/api ]",
-	"Chat_Bot_Type": 1,
+	"Chat_Bot_Type": 4,
 	"API_Brainshop": "INSIRA A SUA API-KEY BRAINSHOP",
 	"BID_Brainshop": "INSIRA A SUA BID BRAINSHOP",
 	"API_SimSimi": [
