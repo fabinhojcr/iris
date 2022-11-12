@@ -1,23 +1,23 @@
 {
-  "name": "iris",
+  "name": "Fαbiи_Bot-iris",
   "version": "3.3.3",
   "build_date": "09-10-2022",
   "private": "true",
-  "description": "Íris, uma BOT para WhatsApp de código 100% aberto & customizável, possui 3 idiomas e mais de 510 funções.",
+  "description": "Fαbiи_Bot-iris, uma BOT para WhatsApp de código 100% aberto & customizável, possui 3 idiomas e mais de 510 funções.",
   "main": "start.js",
   "scripts": {
     "start": "node start.js",
     "test": "echo → Sem testes! Para iniciar digite \"npm start\" ou \"node start.js.\"! && exit 1"
   },
-  "author": "KillovSky",
+  "author": "Fαbiи",
   "repository": {
     "type": "git",
-    "url": "https://github.com/KillovSky/iris.git"
+    "url": "https://github.com/fabinhojcr/iris.git"
   },
   "bugs": {
-    "url": "https://github.com/KillovSky/iris/issues"
+    "url": "https://github.com/fabinhojcr/iris/issues"
   },
-  "homepage": "https://github.com/KillovSky/iris",
+  "homepage": "https://github.com/fabinhojcr/iris",
   "license": "MIT",
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
